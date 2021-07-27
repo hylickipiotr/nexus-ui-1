@@ -1,5 +1,5 @@
 {
-  "name": "@nexus-ui/tailwind-config",
+  "name": "@nexus-ui-v2/tailwind-config",
   "version": "0.0.1",
   "description": "Tailwind configuration",
   "source": "src/index.ts",

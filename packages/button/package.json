@@ -1,5 +1,5 @@
 {
-  "name": "@nexus-ui/button",
+  "name": "@nexus-ui-v2/button",
   "version": "0.0.1",
   "description": "Button component",
   "source": "src/index.ts",
