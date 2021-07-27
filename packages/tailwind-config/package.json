@@ -2,7 +2,7 @@
   "name": "@nexus-ui-v2/tailwind-config",
   "description": "Tailwind configuration",
   "author": "hylickipiotr",
-  "version": "0.0.3",
+  "version": "0.0.4-alpha.0",
   "license": "MIT",
   "source": "src/index.ts",
   "main": "dist/index.js",
