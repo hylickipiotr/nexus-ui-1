@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "outDir": "./.tailwind/",
+    "target": "es6",
+    "lib": ["esnext"],
+    "skipLibCheck": true,
+    "noImplicitUseStrict": true
+  },
+  "include": ["packages/tailwind-config/src/defaultConfig.ts"],
+  "exclude": ["node_modules"]
+}

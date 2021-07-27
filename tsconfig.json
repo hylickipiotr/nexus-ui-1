@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "paths": {
+      "*": ["node_modules/*"],
+      "@oko-cms-ui/button": ["./packages/button/src"],
+      "@oko-cms-ui/tailwind-config": ["./packages/tailwind-config/src"]
+    }
+  }
+}

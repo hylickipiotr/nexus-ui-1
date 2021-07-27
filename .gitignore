@@ -1,0 +1,8 @@
+node_modules
+dist
+
+# Parcel
+.parcel-cache
+
+# Yarn
+yarn-error.log
