@@ -1,7 +1,9 @@
 {
   "name": "@nexus-ui-v2/tailwind-config",
-  "version": "0.0.3",
   "description": "Tailwind configuration",
+  "author": "hylickipiotr",
+  "version": "0.0.3",
+  "license": "MIT",
   "source": "src/index.ts",
   "main": "dist/index.js",
   "module": "dist/index.module.js",
@@ -9,11 +11,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "@babel/runtime": "^7.14.8",
     "ts-deepmerge": "^1.0.8"
-  },
-  "gitHead": "f9b36dda3c0e3668736d6e72b97486d34aba94a7"
+  }
 }

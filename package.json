@@ -1,6 +1,7 @@
 {
   "name": "nexus-ui",
-  "private": false,
+  "author": "hylickipiotr",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.14.8",
     "@babel/plugin-transform-typescript": "^7.14.6",
