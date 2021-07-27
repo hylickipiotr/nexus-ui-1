@@ -1,6 +1,6 @@
 {
   "name": "@nexus-ui-v2/tailwind-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Tailwind configuration",
   "source": "src/index.ts",
   "main": "dist/index.js",

@@ -1,6 +1,6 @@
 {
   "name": "@nexus-ui-v2/button",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Button component",
   "source": "src/index.ts",
   "main": "dist/index.js",
