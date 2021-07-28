@@ -30,8 +30,5 @@
     "build:packages": "parcel build 'packages/*/' --no-cache",
     "build:cleanup": "mv tsconfig.json tsconfig.production.json && mv tsconfig.tmp.json tsconfig.json",
     "build:tailwind-css": "postcss .storybook/tailwind.css -o .storybook/build.css"
-  },
-  "publishConfig": {
-    "access": "public"
   }
 }
